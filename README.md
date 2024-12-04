@@ -45,7 +45,7 @@ Here’s a peek at the languages, frameworks, and tools I love working with:
 
 Want to collaborate, chat about tech, or share some football banter? Here’s where to find me:  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)]([https://r](https://shattereddisk.github.io/rickroll/rickroll.mp4))  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)]([https://twitter.com/your-twitter](https://shattereddisk.github.io/rickroll/rickroll.mp4))  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://shattereddisk.github.io/rickroll/rickroll.mp4)  
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://shattereddisk.github.io/rickroll/rickroll.mp4)  
 
 Thanks for stopping by! Let’s create something amazing. 🚀  
