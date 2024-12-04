@@ -28,8 +28,8 @@ Here’s a peek at the languages, frameworks, and tools I love working with:
 
 ## 📊 GitHub Stats  
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JxdeRedRiver&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JxdeRedRiver&layout=compact&theme=tokyonight)  
 
 ---
 
