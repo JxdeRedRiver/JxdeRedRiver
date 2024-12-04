@@ -18,7 +18,7 @@ Here’s a peek at the languages, frameworks, and tools I love working with:
 
 ### Frameworks  
 - ⚛️ **React**, **Vite**, **Next.js**  
-- 🌱 **Node.js**, **Django**  
+- 🌱 **Node.js**, **Firebase**, **Twillio**, **Flutter**, **Tailwind**
 
 ### Tools  
 - 🖥️ **Rider**, **WebStorm**, **VS Code**  
@@ -35,7 +35,7 @@ Here’s a peek at the languages, frameworks, and tools I love working with:
 
 ## 🎉 A Bit More About Me  
 
-- 💬 I’ll happily chat about code, cars, or football all day long.  
+- 💬 I’ll happily talk about programming, cars, or football all day long.  
 - 🛠️ I love diving into side projects, especially ones that challenge my skills.  
 - 🌍 Always up for collaborating with like-minded developers to build something awesome!  
 
