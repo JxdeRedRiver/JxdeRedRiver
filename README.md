@@ -1,6 +1,6 @@
 # 👋 Hello there!  
 
-I'm **Jude**, a passionate developer from **England** with over **5 years of programming experience**. I love tackling tricky problems, building cool stuff, and geeking out about logic and problem-solving. When I’m not coding, I’m probably:  
+I'm **Jude**, a passionate developer from **England** with over **3 years of programming experience**. I love tackling tricky problems, building cool stuff, and geeking out about logic and problem-solving. When I’m not coding, I’m probably:  
 - ⚽ **Watching or playing football** (the proper football, not that American version).  
 - 🚗 **Drooling over cars** or learning how they work.  
 - 🧠 **Sharpening my brain** with puzzles, riddles, or anything that keeps me on my toes.  
